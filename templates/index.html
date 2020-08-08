@@ -1,8 +1,9 @@
 {% extends "base.html" %} {% block content %}
 
-<h2>Ingresa tu imagen</h2>
-<h3>El objetivo de este detector es lograr determinar cuando en la foto aparesca un animal o una personas.
-El objetivo final es llevar el modelo entrenado a una camara streaming que al visualizar a una persona active una alarma de seguridad</h3>
+<h2>Sube tu imagen</h2>
+<h3>El objetivo de este detector es revisar si la foto corresponde a 2 razas particulares. 
+    Pastor aleman - pomerania
+</h3>
 <div>
     <form id="upload-file" method="post" enctype="multipart/form-data">
         <label for="imageUpload" class="upload-label">
@@ -17,7 +18,7 @@ El objetivo final es llevar el modelo entrenado a una camara streaming que al vi
             </div>
         </div>
         <div>
-            <label>Presiona Aqui </label>
+            <label>Para revisar la raza, presiona acá </label>
             <button type="button" class="btn btn-primary btn-lg " id="btn-predict">¡Haz click!</button>
         </div>
     </div>
