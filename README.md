@@ -31,7 +31,7 @@ pip install Flask
 
 ## Construcción del Modelo de Deep Learning
 
-- Se deben seguir las instrucciones explicadas en este [notebook](https://github.com/aastroza/clase_productodatos_2019_udd/blob/master/notebooks/ejemplo_clasificador_fastai.ipynb).
+- Se deben seguir las instrucciones explicadas en este [notebook](https://github.com/jairopinilla/clase_productodatos_2019_udd/blob/master/notebooks/clasificador_fastai.ipynb).
 
 ## Modificación de la aplicación web
 
@@ -55,7 +55,7 @@ pip install Flask
 
 - En "Deployment Method" escoger "Connect to Github" y seguir las instrucciones.
 
-- Una vez que esté listo, aparecerá un link para revisar la aplicacion en el navegador, como este: https://facemask-udd.herokuapp.com/
+- Una vez que esté listo, aparecerá un link para revisar la aplicacion en el navegador, como este: https://pastorpomerania.herokuapp.com/
 
 ## Créditos
 
