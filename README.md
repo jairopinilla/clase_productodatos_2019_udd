@@ -2,8 +2,10 @@
 # Laboratorio: Publicando un modelo de deep learning en Heroku
 
 
-> Una revisión de todo el camino necesario para publicar nuestro primer Producto de Datos. Ejemplo disponible en https://facemask-udd.herokuapp.com/
+> Una revisión de todo el camino necesario para publicar nuestro primer Producto de Datos. Ejemplo disponible en https://pastorpomerania.herokuapp.com/.
+La aplicación realiza una clasificación de 2 razas de perros. Pomerania y Pastor aleman. 
 
+Su desarrollo fue en base a las siguientes intrucciones. 
 
 ## Antes de empezar
 
